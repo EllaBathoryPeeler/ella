@@ -1,0 +1,60 @@
+header{
+  background-color: #c0b283;
+  padding: 45px;
+  text-align:center;
+  color: #f4f4f4;
+  font-size: 50px;
+  font-family: Impact, bold, serif;
+  letter-spacing: 1.5px;
+
+}
+
+li {
+  float: left;
+  padding-right: 95.85px;
+  padding-left: 95.85px;
+  line-height: 0px;
+  background-color: #373737;
+  list-style-type: none;
+  margin: 0;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 30px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #c0b283;
+  text-align: center;
+  font-family: "Bookman", bold, serif;
+  font-size: 20px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f4f4f4;
+
+}
+h2{
+  padding:10px;
+  font-size: 24px;
+  text-align: left;
+}
+h1{
+  text-align: center;
+  padding-top: 15px;
+  font-family: times;
+}
+h3{
+  padding-top: 15px;
+}
